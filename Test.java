@@ -15,6 +15,6 @@ class Test {
 		Test a = new Test();
 		a.display();
 		
-		System.out.println("test");
+		System.out.println("testee");
 	}
 }
